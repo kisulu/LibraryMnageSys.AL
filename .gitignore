@@ -1,9 +1,4 @@
-.alpackages/Microsoft_Application_25.1.25873.25900.app
-.alpackages/Microsoft_Base Application_25.1.25873.25900.app
-.alpackages/Microsoft_Business Foundation_25.1.25873.25900.app
-.alpackages/Microsoft_System Application_25.1.25873.25900.app
-.alpackages/Microsoft_System_25.0.25866.0.app
-.vscode/launch.json
-.vscode/rad.json
+.alpackages
+.vscode
 Default Publisher_LibraryManagementSystem_1.0.0.0.app
 app.json
