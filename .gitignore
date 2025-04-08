@@ -1,4 +1,5 @@
-.alpackages
-.vscode
+alpackages/
+vscode/
+snapshots/
 Default Publisher_LibraryManagementSystem_1.0.0.0.app
 app.json
